@@ -1,0 +1,14 @@
+[
+    {   "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "This novel centers on the conflict between marrying for love and marrying for economic reasons. None of Mr. Bennet's five daughters can inherit his estate, so they are pressured into finding security in 'good' marriages. Elizabeth Bennet, the main character, struggles with the societal pressures of marriage and resists Mr. Darcy's advances and proposals. Eventually, however, she finds that she does love him, and for that reason, she decides to marry him.",
+        "genre": "comedy of manners",
+        "updatedAt": ""
+    },
+    {   "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "description": "The main characters, Meg Murry, Charles Wallace Murry, and Calvin O'Keefe, embark on a journey through space and time, from universe to universe, as they endeavor to save the Murrys' father and the world. The novel offers a glimpse into the war between light and darkness, and goodness and evil, as the young characters mature into adolescents on their journey.",
+        "genre": "young adult",
+        "updatedAt": ""
+    }
+]
