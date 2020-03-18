@@ -8,14 +8,14 @@ import { EditBookComponent } from './edit-book/edit-book.component';
 
 const routes: Routes = [
   {
-    path: 'books',
-    component: BooksComponent,
-    data: { title: 'Books' }
-  },
-  {
     path: 'show-book/:id',
     component: ShowBookComponent,
     data: { title: 'Show Book' }
+  },
+  {
+    path: 'edit-book/:id',
+    component: EditBookComponent,
+    data: { title: 'Edit Book' }
   },
   {
     path: 'add-book',
@@ -23,9 +23,9 @@ const routes: Routes = [
     data: { title: 'Add Book' }
   },
   {
-    path: 'edit-book/:id',
-    component: EditBookComponent,
-    data: { title: 'Edit Book' }
+    path: 'books',
+    component: BooksComponent,
+    data: { title: 'Books' }
   },
   { path: '',
     redirectTo: '/books',

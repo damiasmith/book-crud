@@ -7,7 +7,7 @@ import { Book } from './book';
 const httpOptions = {
   headers: new HttpHeaders({'Content-Type': 'application/json'})
 };
-const apiUrl = '/api/';
+const apiUrl = '/api';
 
 @Injectable({
   providedIn: 'root'

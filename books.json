@@ -10,5 +10,11 @@
         "description": "The main characters, Meg Murry, Charles Wallace Murry, and Calvin O'Keefe, embark on a journey through space and time, from universe to universe, as they endeavor to save the Murrys' father and the world. The novel offers a glimpse into the war between light and darkness, and goodness and evil, as the young characters mature into adolescents on their journey.",
         "genre": "young adult",
         "updatedAt": ""
+    },
+
+    {   "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "description": "In a dystopian future, environmental disasters and declining birthrates have led to a Second American Civil War. The result is the rise of the Republic of Gilead, a totalitarian regime that enforces rigid social roles and enslaves the few remaining fertile women. Offred is one of these, a Handmaid bound to produce children for one of Gilead’s commanders. Deprived of her husband, her child, her freedom, and even her own name, Offred clings to her memories and her will to survive.",
+        "genre": "distopian"
     }
 ]
